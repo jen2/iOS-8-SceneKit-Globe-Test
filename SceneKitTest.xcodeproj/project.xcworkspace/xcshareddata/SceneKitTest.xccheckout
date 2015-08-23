@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>38DB1106-75AF-421B-8379-7535AAC0FA44</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SceneKitTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1A54B48E880DF07A51C670735A89D23F5D3DC644</key>
+		<string>https://github.com/jen2/iOS-8-SceneKit-Globe-Test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SceneKitTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1A54B48E880DF07A51C670735A89D23F5D3DC644</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jen2/iOS-8-SceneKit-Globe-Test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1A54B48E880DF07A51C670735A89D23F5D3DC644</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1A54B48E880DF07A51C670735A89D23F5D3DC644</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-8-SceneKit-Globe-Test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
